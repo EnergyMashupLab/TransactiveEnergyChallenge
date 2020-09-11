@@ -6,3 +6,5 @@ This folder contains
 Both draft and final versions will be included.
 
 The paper will be available in the conference proceedings when published.
+
+NOTE that you cannot right click a link here and download; you must click on the link and then select the Download button.
